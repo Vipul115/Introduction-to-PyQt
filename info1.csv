@@ -1,0 +1,10 @@
+,description,period,short_desc,temperature
+0,,NOW until further notice,Tsunami Watch, 
+1,"Overnight: Mostly cloudy, with a low around 47. Light northeast wind. ",Overnight,Mostly Cloudy,Low: 47 °F
+2,"Tuesday: Partly sunny, with a high near 55. Calm wind becoming north around 5 mph in the afternoon. ",Tuesday,Partly Sunny,High: 55 °F
+3,"Tuesday Night: Mostly cloudy, with a low around 48. West northwest wind around 5 mph becoming calm  in the evening. ",TuesdayNight,Mostly Cloudy,Low: 48 °F
+4,"Wednesday: Rain, mainly after 10am.  High near 56. Light south southwest wind becoming south 5 to 9 mph in the morning.  Chance of precipitation is 80%. New precipitation amounts between a quarter and half of an inch possible. ",Wednesday,Rain,High: 56 °F
+5,"Wednesday Night: Rain likely before 10pm, then a chance of showers after 10pm.  Mostly cloudy, with a low around 48. South wind 13 to 21 mph becoming west in the evening. Winds could gust as high as 26 mph.  Chance of precipitation is 60%. New precipitation amounts between a tenth and quarter of an inch possible. ",WednesdayNight,Rain Likely,Low: 48 °F
+6,"Thursday: A 30 percent chance of showers.  Partly sunny, with a high near 54. New precipitation amounts between a tenth and quarter of an inch possible. ",Thursday,ChanceShowers,High: 54 °F
+7,"Thursday Night: A 20 percent chance of showers.  Mostly cloudy, with a low around 47.",ThursdayNight,Slight ChanceShowers,Low: 47 °F
+8,"Friday: Partly sunny, with a high near 54.",Friday,Partly Sunny,High: 54 °F
